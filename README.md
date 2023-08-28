@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivam210014
-- 👀 I’m interested in Software engineering and full stack
-- 🌱 I’m currently learning Full stack development
+- 👀 I’m interested in Software engineering and web related things
+- 🌱 I’m done cource on codings and web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me --- whatsapp me--9162513481
 
